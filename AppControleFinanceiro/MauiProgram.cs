@@ -1,4 +1,5 @@
-﻿using Microsoft.Extensions.Logging;
+﻿using LiteDB;
+using Microsoft.Extensions.Logging;
 
 namespace AppControleFinanceiro
 {
